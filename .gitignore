@@ -1,0 +1,92 @@
+/.VirtualBox/
+/.android/
+/.cache/
+/.config/
+/.dotnet/
+/.eclipse/
+/.emulator_console_auth_token
+/.gitconfig
+/.gradle/
+/.ipython/
+/.lemminx/
+/.lesshst
+/.m2/
+/.p2/
+/.skiko/
+/.swt/
+/.vscode/
+/3D Objects/
+/AndroidStudioProjects/
+/AppData/
+/Contacts/
+/Desktop/
+/Certificado_del_curso.pdf
+/DAM_M10_UF1_PAC_Desarrollo_SARA_VAQUERIZO.pdf
+/DIAGRAMA DE GRAFO PAC.drawio
+/Diagrama de gantt.xlsx
+/Menus y facturas MANGADA/
+/NetBeansProjects/
+/PAC DESARROLLO ENTORNOS/
+/PACDESARROLLO_EMPRESA.docx
+/PAC_UF3_M09_VAQUERIZOLOPEZSARA.zip
+/PAC_UF3_M09_VAQUERIZOLOPEZSARA/
+/PDF_PROG_MULTIMEDIA/
+/"PRODUCTOS V\303\255deo 19.xlsx"
+/PRUEBASGIT/
+/SARA_VAQUERIZO/
+/SARA_VAQUERIZOLOPEZ_HUNDIRFLOTA.zip
+/SARA_VAQUERIZO_ESDLA.apk
+/SARA_VAQUERIZO_ESDLA.zip
+/Sara_Vaquerizo_hundirFlota/
+/Sara_vaquerizo_esdla.pdf
+/Vuze Downloads/
+/WEB_MANGADA/
+/WPS Cloud Files/
+/basededatos.sql
+/curso_sql2.sql
+/def.py
+/desktop.ini
+/diagramas.drawio
+/entrega.zip
+/entrega/
+/gitSQL/
+/hello.py
+/pac desarrollo base de datos/
+/pac gestion empesarial.docx
+/"pac_se\303\261oranillos/"
+/practicas_SQL_udemy.sql
+/practicas_pildoras_sql/
+/practicaspython.py
+/practicasql.docx
+/prc.py
+/proyecto_final/
+/prrrr.py
+/pythpon/
+/sqlcertificadoudemy.pdf
+/sqldeveloper-23.1.0.097.1607-x64/
+/src/
+/sumar.py
+/web chat bot/
+/Downloads/
+/Favorites/
+/Links/
+/Microsoft/
+/Music/
+/NTUSER.DAT
+/OneDrive/
+/Pictures/
+/Saved Games/
+/Searches/
+/Tracing/
+/Videos/
+/WPS Cloud Files/
+/commits.txt
+/eclipse-workspace/
+/eclipse/
+/mu_code/
+/ntuser.dat.LOG1
+/ntuser.dat.LOG2
+/ntuser.ini
+/source/
+/sql-libreria/
+!/piedra_papel_tijera.py
